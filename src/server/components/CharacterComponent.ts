@@ -10,7 +10,7 @@ import { StatusesData, DefaultHumanoidStats } from "shared/StatusData";
 import { Events } from "server/network";
 
 const components = Dependency(Components)
-
+// thats
 interface WrappedStatusPoint {
     ChangedTo: any,
     ChangedBy: number
